@@ -1,0 +1,65 @@
+[
+    {      // "Turismo de Sol y Playa"
+        "name": "Sun & Beach",
+        "difficulty": "1",
+        "duration": "120",
+        "season": "Summer",
+        "description": "Lugares cálidos en los que podrá disfrutar de Piscinas, Playas, Sol y Arena de enorme belleza."
+    },
+    {       //"Turismo Rural Alta Montaña"
+        "name": "High Mountain",
+        "difficulty": "3",
+        "duration": "120",
+        "season": "Spring",
+        "description":"Estas decidido a nuevas aventuras: Ciclismo de montaña, Trail Running, Barranquismo, Senderismo, Trekking, Alpinismo ó Esquí."
+        },
+    {       //"Turismo Gastronomico"
+        "name": "Food & Drink",
+        "difficulty": "2",
+        "duration": "120",
+        "season": "allYear",
+        "description": "Es uno de los mejores turismos que existen, ya que probar recetas, platos y productos de otros lugares es una de las experiencias más gratificantes y sorprendentes que existen, podemos conocer mejor la cultura y las costumbres gastronómicas de otros países u otras regiones, que, como es lógico, son muy distintas." 
+    },
+    {      // "Turismo Cultural"
+        "name": "Culture & Art",
+        "difficulty": "1",
+        "duration": "120",
+        "season": "allYear",
+        "description": "Es el turismo de las personas que viajan movidas por el interés de aprender algo cultural de otro país o lugar; ya sea asistiendo a un festival, a un evento cultural o visitando los monumentos y sitios de mayor interés de una ciudad."
+    },
+    {      //"Turismo Aventura-X"
+        "name": "Adventure-X",
+        "difficulty": "5",
+        "duration": "240",
+        "season": "allYear",
+        "description": "Actividades vinculadas a deportes de riesgo tales como el Puenting, el Rafting, el Paracaidismo o el Buceo, significó el nacimiento de un turismo que muchos denominaron extremos."
+    },
+    {       //"Turismo de Convenciones"
+        "name": "Conventions & Congresses",
+        "difficult": "3",
+        "duration": "480",
+        "season": "allYear",
+        "description": "El turismo de convenciones es aquel que atrae las visitas de turistas que viaja por motivos de Negocios, Congresos Académicos y Conferencias."
+    },
+    {       //"Turismo de Salud"
+        "name": "Health & Travel" ,
+        "difficult": "4",
+        "duration": "240",
+        "season": "allYear",
+        "description": "Consta en viajar a otro país para recibir un tratamiento médico o cirugía. En las cirugías estéticas se da mucho este tipo de turismo, ya que, en algunos países las operaciones son mucho más baratas y merece la pena el viaje."
+    },
+    {       //"Turismo Deportivo"
+        "name": "World Sports",
+        "difficult": "2",
+        "duration": "150",
+        "season": "allYear",
+        "description": "Es uno de los tipos de turismo que más dinero mueven en el mundo. Los Mundiales de Fútbol, Fórmula 1 y Juegos Olímpicos son algunos ejemplos de ellos."
+    },
+    {       //"Turismo de Compras"
+        "name": "Shopping Lovers",
+        "difficult": "4",
+        "duration": "480",
+        "season": "allYear",
+        "description": "Turismo cuya motivación principal son las compras. Está relacionado con los buenos precios de la destinación o con productos de artes o tecnología avanzadas que no se encuentran en el país de origen del viajero."
+    }
+]
