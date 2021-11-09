@@ -1,0 +1,15 @@
+.searchbar {
+    width: 20rem;
+    margin: 0.5rem;
+    }
+    .button {
+        border-radius: 10px;
+        font-size: 120%;
+        font-weight: bold;
+        color: white;
+        background-color: rgb(48, 35, 224);
+    }
+    
+    .orderfilter {
+        color: royalblue;
+    }

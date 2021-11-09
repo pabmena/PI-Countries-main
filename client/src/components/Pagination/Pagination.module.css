@@ -1,0 +1,23 @@
+.pagination {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    padding-inline-start: 0px;
+  }
+  .number {
+    margin: 1%;
+  
+  }
+  .pagenumber {
+    margin: .50%;
+    border-radius: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(16, 99, 167);
+  }
+
+  .pagenumber:hover {
+    text-decoration: none;
+    border: 0.9rem;
+    transform: scale(1.1);
+  }

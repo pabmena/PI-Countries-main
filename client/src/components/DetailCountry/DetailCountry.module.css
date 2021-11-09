@@ -1,0 +1,45 @@
+.detailcountry {
+    justify-content: center;
+    display: flex;
+    background-color: rgba(0,0,0,0.1);
+
+
+}
+.left{
+    float: left;
+    width: 33.3%;
+    padding-top: 6vw;
+    font-size: x-large;
+}
+
+.rigth{
+    float: right;
+    width: 33.3%;
+    padding-top: 6vw;
+    text-align: left;
+    margin-left: 20px;
+}
+.center{
+   display:inline-block;
+   padding-top: 6vw;
+}
+
+.ctryact{
+    display: flex;
+    justify-content: center;
+    /* border: black solid 5px; */
+}
+.name{
+    display: inline;
+}
+.h{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button {
+    border-radius: 10px;
+    font-size: 120%;
+    font-weight: bold;
+    color: white;
+    background-color: steelblue;
+    margin: 3px;
+}
